@@ -19,7 +19,7 @@ const counter = () => {
   // Return a function that when invoked increments and returns a counter variable.
 };
 let count = counter();
-console.log(newCount());
+console.log(count());
 // Example usage: const newCounter = counter();
 // newCounter(); // 1
 // newCounter(); // 2
